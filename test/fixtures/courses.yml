@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cid: MyString
+  cname: MyString
+  chour: MyText
+  credit: MyString
+  tname: MyString
+
+two:
+  cid: MyString
+  cname: MyString
+  chour: MyText
+  credit: MyString
+  tname: MyString
