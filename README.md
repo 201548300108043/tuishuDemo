@@ -71,3 +71,6 @@
 
         rails generate scaffold course cid:string cname:string chour:text credit:string tname:string 
 
+#####20160103小组会记录
+
+确认使用ucasTeam进行团队合作，所有组员代码都将贡献到ucasTeam上，由组员提出pull请求，组长统一确认merge.<br>
